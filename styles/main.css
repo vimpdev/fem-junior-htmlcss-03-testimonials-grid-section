@@ -70,6 +70,7 @@
     font-family: var(--ff-base);
     font-size: var(--fsz-base);
     background-color: var(--grey-300);
+    color: var(--grey-500);
   }
 
   .testimonials {
