@@ -14,7 +14,7 @@ Focused on layout, structure, and maintainability using CSS Grid and `@layer`.
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-junior-htmlcss-03-testimonials-grid-section/)
-<!-- - 📌 [Frontend Mentor solution]() -->
+- 📌 [Frontend Mentor solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-responsive-css-grid-layout-WVOChe5Hsj)
 
 ---
 
@@ -61,7 +61,7 @@ The goal was to build a responsive layout that adapts across breakpoints while k
 
 ---
 
-## 🧠 What I learned during this project
+## 🧩 What I learned during this project
 
 - How to structure CSS using `@layer` to separate concerns (reset, base, layout, components, responsive)
 - Why relying only on `nth-child` can make layouts harder to maintain
